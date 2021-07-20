@@ -17,3 +17,4 @@ And the ones already present within the game:
 | -----------| --------------------------- |
 | Access Elliot's Summer and Halloween Costumes | Left, Up, Right, Circle/B, R1/RB, R2/RT, Select |
 | Access NiGHTS's Reala costume in Spring Valley | Up, Up, Down, Down, Left, Right, Left, Right, Circle/B, Square/X, Circle/B, Square/X |
+| Clear current costume choice | Up, Down, Left, Right, Up, Down, Left, Right |
